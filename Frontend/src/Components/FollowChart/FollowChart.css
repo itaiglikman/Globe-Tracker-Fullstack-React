@@ -1,0 +1,13 @@
+.FollowChart {
+	width: 100%;
+	height: 100%;
+    padding: 1%;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.FollowChart .csv{
+    position: absolute;
+    top: 1%;
+    right: 1%;
+}

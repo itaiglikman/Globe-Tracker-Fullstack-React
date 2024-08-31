@@ -1,0 +1,9 @@
+.VacationsList .vacationsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    row-gap: 5vh;
+    flex-wrap: wrap;
+    margin: 1% 5%;
+}
+
